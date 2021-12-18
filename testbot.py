@@ -130,5 +130,5 @@ async def invite(ctx):
         await ctx.author.send("https://discord.com/oauth2/authorize?client_id=796571765878423582&permissions=8&scope=bot")
     
 
-client.run("Nzk2NTcxNzY1ODc4NDIzNTgy.X_Z3RA.KrC6vOaf8jXXNglgrPfZ049kOes") 
+client.run("Nzk2NTcxNzY1ODc4NDIzNTgy.X_Z3RA.KrC6vOaf8jXXNglgrPfZ049kOes") #bot id
  
